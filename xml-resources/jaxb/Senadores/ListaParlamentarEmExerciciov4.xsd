@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="CodigoExercicio" type="xs:int"/>
+  <xs:element name="CodigoMandato" type="xs:int"/>
+  <xs:element name="CodigoParlamentar" type="xs:int"/>
+  <xs:element name="DataFim" type="xs:date"/>
+  <xs:element name="DataInicio" type="xs:date"/>
+  <xs:element name="DataLeitura" type="xs:date"/>
+  <xs:element name="DescricaoCausaAfastamento" type="xs:string"/>
+  <xs:element name="DescricaoDataSet" type="xs:string"/>
+  <xs:element name="DescricaoParticipacao" type="xs:string"/>
+  <xs:element name="EmailParlamentar" type="xs:string"/>
+  <xs:element name="Exercicio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="CodigoExercicio" minOccurs="0"/>
+        <xs:element ref="DataInicio" minOccurs="0"/>
+        <xs:element ref="DataFim" minOccurs="0"/>
+        <xs:element ref="SiglaCausaAfastamento" minOccurs="0"/>
+        <xs:element ref="DescricaoCausaAfastamento" minOccurs="0"/>
+        <xs:element ref="DataLeitura" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Exercicios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Exercicio" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FormaTratamento" type="xs:string"/>
+  <xs:element name="IdentificacaoParlamentar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="CodigoParlamentar" minOccurs="0"/>
+        <xs:element ref="NomeParlamentar" minOccurs="0"/>
+        <xs:element ref="NomeCompletoParlamentar" minOccurs="0"/>
+        <xs:element ref="SexoParlamentar" minOccurs="0"/>
+        <xs:element ref="FormaTratamento" minOccurs="0"/>
+        <xs:element ref="UrlFotoParlamentar" minOccurs="0"/>
+        <xs:element ref="UrlPaginaParlamentar" minOccurs="0"/>
+        <xs:element ref="EmailParlamentar" minOccurs="0"/>
+        <xs:element ref="SiglaPartidoParlamentar" minOccurs="0"/>
+        <xs:element ref="UfParlamentar" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListaParlamentarEmExercicio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Metadados" minOccurs="0"/>
+        <xs:element ref="Parlamentares" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Mandato">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="CodigoMandato" minOccurs="0"/>
+        <xs:element ref="UfParlamentar" minOccurs="0"/>
+        <xs:element ref="PrimeiraLegislaturaDoMandato" minOccurs="0"/>
+        <xs:element ref="SegundaLegislaturaDoMandato" minOccurs="0"/>
+        <xs:element ref="UrlPaginaNoMandato" minOccurs="0"/>
+        <xs:element ref="DescricaoParticipacao" minOccurs="0"/>
+        <xs:element ref="Titular" minOccurs="0"/>
+        <xs:element ref="Suplentes" minOccurs="0"/>
+        <xs:element ref="Exercicios" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Metadados">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Versao" minOccurs="0"/>
+        <xs:element ref="VersaoServico" minOccurs="0"/>
+        <xs:element ref="DescricaoDataSet" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NomeCompletoParlamentar" type="xs:string"/>
+  <xs:element name="NomeParlamentar" type="xs:string"/>
+  <xs:element name="NumeroLegislatura" type="xs:int"/>
+  <xs:element name="Parlamentar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="IdentificacaoParlamentar" minOccurs="0"/>
+        <xs:element ref="Mandato" minOccurs="0"/>
+        <xs:element ref="UrlGlossario" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Parlamentares">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Parlamentar" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PrimeiraLegislaturaDoMandato">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="NumeroLegislatura" minOccurs="0"/>
+        <xs:element ref="DataInicio" minOccurs="0"/>
+        <xs:element ref="DataFim" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SegundaLegislaturaDoMandato">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="NumeroLegislatura" minOccurs="0"/>
+        <xs:element ref="DataInicio" minOccurs="0"/>
+        <xs:element ref="DataFim" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SexoParlamentar" type="xs:string"/>
+  <xs:element name="SiglaCausaAfastamento" type="xs:string"/>
+  <xs:element name="SiglaPartidoParlamentar" type="xs:string"/>
+  <xs:element name="Suplente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="DescricaoParticipacao" minOccurs="0"/>
+        <xs:element ref="CodigoParlamentar" minOccurs="0"/>
+        <xs:element ref="NomeParlamentar" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Suplentes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Suplente" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Titular">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="DescricaoParticipacao" minOccurs="0"/>
+        <xs:element ref="CodigoParlamentar" minOccurs="0"/>
+        <xs:element ref="NomeParlamentar" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UfParlamentar" type="xs:string"/>
+  <xs:element name="UrlFotoParlamentar" type="xs:string"/>
+  <xs:element name="UrlGlossario" type="xs:string"/>
+  <xs:element name="UrlPaginaNoMandato" type="xs:string"/>
+  <xs:element name="UrlPaginaParlamentar" type="xs:string"/>
+  <xs:element name="Versao" type="xs:string"/>
+  <xs:element name="VersaoServico" type="xs:int"/>
+</xs:schema>

@@ -1,0 +1,330 @@
+﻿CT-CT/20130064;1;SERVENTE 07h00 às 11h00 - 12h00 às 16h00;2
+CT-CT/20130064;2;SERVENTE 11h00 às 15h00 - 16h00 às 20h00;1
+CT-CT/20130064;3;SERVENTE 15h00 às 19h00 - 20h00 às 24h00;1
+CT-CT/20130064;4;ENCARREGADO 07h00 às 11h00 - 12h00 às 16h00;1
+CT-CT/20140013;1;TÉCNICO ESPECIALISTA EM PABX ERICSSON MX-ONE E MD-110;2
+CT-CT/20140013;2;PABX Ericsson MX-ONE 5.0, com redundância de processamento e rede instalada na Subsecretaria de Operações de Telecomunicações do SENADO - Unidade de Apoio VI.;1
+CT-CT/20140013;3;PABX Ericsson MX-ONE 5.0 com programação independente instalado na SQS 309.;1
+CT-CT/20140013;4;PABX Ericsson MX-ONE 5.0 com programação idependente instalado na Residência Oficial da Presidência do SENADO.;1
+CT-CT/20140013;5;PABX MD-110/BC-12 composto por um único módulo (LIM) responsável pela integração deste com o Contact Center (Alô Senado).;1
+CT-CT/20140013;6;Módulo AMC (Aastra Mobile Client) com 300 licenças instalado em um servidor Aastra ASU-E.;1
+CT-CT/20140013;7;Módulo de interconexão a internet - (EQII) -SBC (Session Border Controler) SIG2000 da Voice com 02 (dois) servidores Aastra ASU-E.;1
+CT-CT/20140013;8;Módulo de correio de voz One Box com 200 caixas, instalado em servidor Aastra ASU no magazine Classic.;1
+CT-CT/20140013;9;Módulo tarifador GTC Advanced com gestao de até 10 PABX(s);1
+CT-CT/20140013;10;Software de gerência Vision One.;1
+CT-CT/20140013;11;Servidores HP Proliant DL36e Gen8;12
+CT-CT/20140013;12;Switches Alcatel-Lucent OS6850-24X;3
+CT-CT/20140013;13;Switches OS6850E-24X;4
+CT-CT/20140013;14;Switches Cisco Catalyst WS-C2950-24;1
+CT-CT/20140013;15;Retificador, modelo SR 1.000 A/-48V/2.4, fabricado pela empresa SAFT-NIFE.;1
+CT-CT/20140013;16;Banco de baterias do tipo OPZV, 1.000 A/10H, com 96 elementos;1
+CT-CT/20140013;17;Banco de Baterias do tipo OPZV, 150 A/10h, com 24 elementos;1
+CT-CT/20140013;18;Banco de baterias composto por 4 baterias de 12V/150 Amperes/hora, tipo chumbo-ácido selada.;1
+CT-CT/20140013;19;Sistema de ramais sem fio DECT-Ericsson com 10 ramais.;1
+CT-CT/20140013;20;Inversor estático Tectrol, modelo TCI10.0 frcr4c, COM TENSÃO DE ENTRADA DE 48 Vcc e tensão de saída de 220 Vca.;1
+CT-CT/20140013;21;Inversores Proteco INV-48/220-1kVA de rack.;13
+CT-CT/20140013;22;Retificador Proteco BMLBM 260003-MP48/10 A.;2
+CT-CT/20140013;23;sistema de interligação com modem óptico entre o PABX do Senado Federal e o PABX da Câmara dos Deputados.;1
+CT-CT/20140013;24;Equipamentos complementares;1
+CT-CT/20140030;1;Técnico em manutenção de equipamentos broadcast;3
+CT-CT/20140030;2;Peças de reposição, conforne o disposto no Parágrafo Décimo Sétimo da Cláusula Terceira;12
+CT-CT/20140041;1;Pó facial;48
+CT-CT/20140041;2;Base ou Foundation;24
+CT-CT/20140041;3;Pó Compacto;48
+CT-CT/20140041;4;Sombra e Blush;24
+CT-CT/20140041;5;Rimel ou Máscara;80
+CT-CT/20140041;6;Batom;48
+CT-CT/20140041;7;Demaquilante;40
+CT-CT/20140041;8;Talco para pele;8
+CT-CT/20140041;9;Grampo grande para cabelo;8
+CT-CT/20140041;10;Grampo pequeno para cabelo;8
+CT-CT/20140041;11;Secador de cabelo 2400W/220V;8
+CT-CT/20140041;12;Barbeador descartável;40
+CT-CT/20140041;13;Lâmina duplo corte para navalhoa;120
+CT-CT/20140041;14;Espuma para barbear;16
+CT-CT/20140041;15;Tábua para passar roupa;4
+CT-CT/20140041;16;Algodão em chumaço;8
+CT-CT/20140041;17;Prancha profissional (chapinha);8
+CT-CT/20140041;18;Modelador tipo baby liss de uso profissional;2
+CT-CT/20140041;19;Lenço umedecido;16
+CT-CT/20140041;20;Lápis de olho - cor preta;24
+CT-CT/20140041;21;Lápis de olho - cor marrom;24
+CT-CT/20140041;22;Spray para cabelo fixaçõa extra forte;40
+CT-CT/20140041;23;Xampu para cabelo - galão de 5 litros;8
+CT-CT/20140041;24;Creme para cabelo - galão de 5 litros;8
+CT-CT/20140041;25;Cotonetes;20
+CT-CT/20140041;26;Toalhas em algodão, tamanho médio;32
+CT-CT/20140041;27;Grupo 1 - Administrador de Sistemas Computacionis;3
+CT-CT/20140041;28;Grupo 1 - Administrador de Web;4
+CT-CT/20140041;29;Grupo 1 - Administrador de Web noturno;1
+CT-CT/20140041;30;Grupo 1 - Arquivista de teipes;11
+CT-CT/20140041;31;Grupo 1 - Assistente de estúdio;3
+CT-CT/20140041;32;Grupo 1 - Assistente de produção;1
+CT-CT/20140041;33;Grupo 1 - Assitente operacional;22
+CT-CT/20140041;34;Grupo 1 - Auxiliar de operador de unidade portatil externa;16
+CT-CT/20140041;35;Grupo 1 - Auxiliar de operador de unidade portátili externa noturno;2
+CT-CT/20140041;36;Grupo 1 - Auxiliar em informação, documentação e pesquisa audiovisual;4
+CT-CT/20140041;37;Grupo 1 - Coordenador de Programação;3
+CT-CT/20140041;38;Grupo 1 - Coordenador de Programação (inclusive feriados);3
+CT-CT/20140041;39;Grupo 1 - Coordenalor de Programação (inclusive feriados noturno);1
+CT-CT/20140041;40;Grupo 1 - Desenhista;3
+CT-CT/20140041;41;Grupo 1 - Designer gráfico noturno;3
+CT-CT/20140041;42;Grupo 1 - Diretor de Imagens;13
+CT-CT/20140041;43;Grupo 1 - Diretor de Imagens noturno;1
+CT-CT/20140041;44;Grupo 1 - Diretor de programas;1
+CT-CT/20140041;45;Grupo 1 - Editor de fotografia;5
+CT-CT/20140041;46;Grupo 1 - Editor de fotografia noturno;1
+CT-CT/20140041;47;Grupo 1 - Editor de Videoteipe;17
+CT-CT/20140041;48;Grupo 1 - Editor de Videoteipe Noturno;2
+CT-CT/20140041;49;Grupo 1 - Gerente em projeto de TV digital;3
+CT-CT/20140041;50;Grupo 1 - Iluminador;2
+CT-CT/20140041;51;Grupo 1 - Maquiador;1
+CT-CT/20140041;52;Grupo 1 - Monitor de controle de qualidade;6
+CT-CT/20140041;53;Grupo 1 - Operador de Áudio noturno;1
+CT-CT/20140041;54;Grupo 1 - Operador de Áudio noturno;1
+CT-CT/20140041;55;Grupo 1 - Operador de Áudio;4
+CT-CT/20140041;56;Grupo 1 - Operador de Áudio;1
+CT-CT/20140041;57;Grupo 1 - Operador de Áudio noturno;1
+CT-CT/20140041;58;Grupo 1 - Operador de Áudio noturno;1
+CT-CT/20140041;59;Grupo 1 - Operador de Áudio;8
+CT-CT/20140041;60;Grupo 1 - Operador de Câmera;14
+CT-CT/20140041;61;Grupo 1 - Operador de fotografia digital;3
+CT-CT/20140041;62;Grupo 1 - Operador de Máquina de caracteres;12
+CT-CT/20140041;63;Grupo 1 - Operador de Máquida de caracteres noturno;2
+CT-CT/20140041;64;Grupo 1 - Operador de Mixagem;1
+CT-CT/20140041;65;Grupo 1 - Operador de Mixagem;3
+CT-CT/20140041;66;Grupo 1 - Operador de Mixagem;2
+CT-CT/20140041;67;Grupo 1 - Operador de Mixagem;1
+CT-CT/20140041;68;Grupo 1 - Operador de Multimídia;9
+CT-CT/20140041;69;Grupo 1 - Operador de Vídeo;8
+CT-CT/20140041;70;Grupo 1 - Operador de videoteipe noturno;1
+CT-CT/20140041;72;Grupo 1 - Operador de videoteipe;5
+CT-CT/20140041;73;Grupo 1 - Operador de vidoteipe noturno;0
+CT-CT/20140041;74;Grupo 1 - Redator publicitário de rádio;2
+CT-CT/20140041;75;Grupo 1 - Reporter Cinematográfico;13
+CT-CT/20140041;76;Grupo 1 - Reporter Cinematográfico noturno;2
+CT-CT/20140041;77;Grupo 1 - Reporter fotográfico;9
+CT-CT/20140041;78;Grupo 1 - Revisor especialista em informação, documentação e pesquisa audiovisual;6
+CT-CT/20140041;79;Grupo 1 - Sonoplasta;1
+CT-CT/20140041;80;Grupo 1 - Sonoplasta noturno;1
+CT-CT/20140041;81;Grupo 1 - Supervisor de operação;1
+CT-CT/20140041;82;Grupo 1 - Supervisor de Operação noturno;1
+CT-CT/20140041;83;Grupo 1 - Supervisor de operação;7
+CT-CT/20140041;85;Grupo 1 - Web designer;5
+CT-CT/20140041;86;Grupo 2 - Assistente de clipping;5
+CT-CT/20140041;87;Grupo 2 - Supervisor de clipping;1
+CT-CT/20140041;88;Grupo 2 - Supervisor de qualidade sênior;1
+CT-CT/20140041;89;Grupo 3 - Arquivista de teipes;1
+CT-CT/20140041;90;Grupo 3 - Monitor de controle de qualidade;2
+CT-CT/20140041;91;Grupo 3 - Reporte cinematográfico;1
+CT-CT/20140041;92;Encarregado de tráfego diurno;2
+CT-CT/20140041;93;Encarregado de tráfego noturno;2
+CT-CT/20140042;1;Supervisor técnico ar-condicionado;1
+CT-CT/20140042;2;Supervisor técnico automação;1
+CT-CT/20140042;3;Encarregado;4
+CT-CT/20140042;4;Técnico Eletromecânico;3
+CT-CT/20140042;5;Técnico em comando elétrico;3
+CT-CT/20140042;6;Técnico em ar-condicionado;3
+CT-CT/20140042;7;Técnico em automação;3
+CT-CT/20140042;8;Eletromecânico em ar-condicionado diurno;8
+CT-CT/20140042;9;Eletromecãnico em ar-condicionado noturno;8
+CT-CT/20140042;10;Auxiliar de manutenção;2
+CT-CT/20140042;11;Auxiliar de manutenção Noturno;2
+CT-CT/20140042;12;Operador de automação diurno;6
+CT-CT/20140042;13;Operador de automação noturno;6
+CT-CT/20140059;1;Técnico Designer Gráfico;5
+CT-CT/20140076;1;1 POSTO (MENOR APRENDIZ);200
+CT-CT/20150017;1;Vigilante desarmado diurno 12 x 36;124
+CT-CT/20150017;2;Vigilante armado noturno 12 x 36;68
+CT-CT/20150017;3;Vigilante desarmado noturno 12 x 36;34
+CT-CT/20150017;4;Supervisor diurno 12 x 36;6
+CT-CT/20150017;5;Supervisor noturno 12 x 36;6
+CT-CT/20150017;6;Vigilante  diurno 12 x 36 (intrajornada);14
+CT-CT/20150017;7;Vigilante noturno 12 x 36;2
+CT-CT/20150065;1;ARQUIVISTA DE MIDIAS DE ÁUDIO E ViDEO;16
+CT-CT/20150065;2;OPERADOR DE ÁUDIO;29
+CT-CT/20150065;3;OPERADOR DE MIXAGEM;14
+CT-CT/20150065;4;SUPERVISOR DE OPERAÇÕES DE ÁUDIO;5
+CT-CT/20150065;5;INSTALADOR DE EQUIPAMENTOS DE ÁUDIO;13
+CT-CT/20150065;6;OPERADOR DE TRANSMISSOR DE RADIO E TV (DIURNO);2
+CT-CT/20150065;7;OPERADOR DE TRANSMISSOR DE RADIO E TV (NOTURNO);2
+CT-CT/20150068;1;Encarregado Geral;1
+CT-CT/20150068;2;Copeiro;303
+CT-CT/20150068;3;Contínuo;373
+CT-CT/20150068;4;Chaveiro;3
+CT-CT/20150068;5;Auxiliar de Serviços Gerais;5
+CT-CT/20150068;6;Cozinheira;3
+CT-CT/20150068;7;Arrumadeira;3
+CT-CT/20150068;8;Ajudante de Cozinha;1
+CT-CT/20150068;9;Garçom;10
+CT-CT/20150068;10;Lavadeira/Passadeira;3
+CT-CT/20150068;11;Auxiliar Administrativo Nível II;56
+CT-CT/20150068;12;Auxiliar Administrativo Nível I;56
+CT-CT/20150072;1;Auxiliar Técnico de Informática;15
+CT-CT/20150078;1;Porteiro Diurno.;6
+CT-CT/20150078;2;Porteiro Noturno.;6
+CT-CT/20150116;1;Encarregado;1
+CT-CT/20150116;2;Jardineiro;11
+CT-CT/20150116;3;Auxiliar de Jardinagem;37
+CT-CT/20150116;4;Auxiliar de Jardinagem com Adicional de Insalubridade;2
+CT-CT/20150116;5;Motorista;1
+CT-CT/20150134;1;"Atribuições: realizar acompanhamento constante da equipe de higienizadores, realizar distribuição de tarefas da equipe, orientar, acompanhar e auxiliar a equipe no processo de execução das tarefas de higienização e pequenos reparos, controlar as necessidades de reposição de material de custeio e equipamentos de segurança. Qualificações: Ensino Médio completo e Curso de Higienização e Conservação de Bens Culturais com duração de 345 horas.";1
+CT-CT/20150134;2;"Atribuições: realizar limpeza inicial das obras, realizar lixamento das bordas (corte) com lixa d'água fina, realizar limpeza do livro folha por folha; realizar remoção de adesivos, sujeiras e grampos, desfazer orelhas e dobras; realizar higienização utilizando a borracha, o pó de borracha, e/ou solução com álcool adequado, realizar pequenos reparos como: pequenas colagens de folhas soltas ou rasgo.Qualificações: Curso de Higienização e Conservação de Bens Culturais com duração de 760 horas";8
+CT-CT/20160018;1;Bombeiro Civil Nível Básico Diurno;32
+CT-CT/20160018;2;Bombeiro Civil Nível Básico Noturno;24
+CT-CT/20160018;3;Bombeiro Civil Líder Diurno;3
+CT-CT/20160018;4;Bombeiro Civil Líder Noturno;2
+CT-CT/20160018;5;Bombeiro Civil Mestre;1
+CT-CT/20160084;1;Encarregado Geral;2
+CT-CT/20160084;2;Encarregado Diurno;25
+CT-CT/20160084;3;Almoxarife;3
+CT-CT/20160084;4;Servente Diurno;377
+CT-CT/20160084;5;Servente (Escala 12x 36) diurno;20
+CT-CT/20160084;6;Material de limpeza e conservação;1
+CT-CT/20160110;1;Supervisor Técnico - Sistema Elétrico.;2
+CT-CT/20160110;2;Técnico em Segurança do Trabalho.;1
+CT-CT/20160110;3;Auxiliar de Almoxarifado.;2
+CT-CT/20160110;4;Auxiliar Administrativo.;2
+CT-CT/20160110;5;Cadista.;2
+CT-CT/20160110;6;Técnico em Eletrotécnica Encarregado.;6
+CT-CT/20160110;7;Técnico em Eletrotécnica Planejador de Manutenção.;1
+CT-CT/20160110;8;Técnico em Eletrotécnica Termografista.;1
+CT-CT/20160110;9;Técnico em Eletrônica.;17
+CT-CT/20160110;10;Eletricista.;17
+CT-CT/20160110;11;Ajudante de Eletricista.;14
+CT-CT/20160110;12;Técnico em Eletromecânica.;5
+CT-CT/20160110;13;Técnico em Automação.;3
+CT-CT/20160110;14;Técnico em Eletrotécnica Plantonista (Diurno).;4
+CT-CT/20160110;15;Técnico em Eletrotécnica Plantonista (Noturno).;4
+CT-CT/20160110;16;Eletricista Plantonista (Diurno).;14
+CT-CT/20160110;17;Eletricista Plantonista (Noturno).;14
+CT-CT/20170025;1;GESTOR DE SERVICE DESK;3
+CT-CT/20170025;2;SUPERVISOR DE ATENDIMENTO;13
+CT-CT/20170025;3;TÉCNICO DE ATENDIMENTO 2º NÍVEL PRESENCIAL;42
+CT-CT/20170025;4;TÉCNICO DE ATENDIMENTO 1º NÍVEL REMOTO;35
+CT-CT/20170027;1;Motorista;42
+CT-CT/20170027;2;Motorista;2
+CT-CT/20170027;3;Motorista;1
+CT-CT/20170027;4;Motorista Diurno;4
+CT-CT/20170027;5;Motorista Noturno;6
+CT-CT/20170027;6;Motorista de Ambulância;4
+CT-CT/20170027;7;Motorista de Ambulância;1
+CT-CT/20170027;8;Atendente;3
+CT-CT/20170027;9;Ajudante;12
+CT-CT/20170027;10;Encarregado;1
+CT-CT/20170027;11;Encarregado;1
+CT-CT/20170040;1;Supervisor Geral;1
+CT-CT/20170040;2;Ajudante de Marceneiro;12
+CT-CT/20170040;3;Ajudante de Serviços Gerais;6
+CT-CT/20170040;4;Ajudante de Serralheiro;2
+CT-CT/20170040;5;Apoio Técnico Administrativo I - Atendimento;2
+CT-CT/20170040;6;Apoio Técnico Administrativo II - Controle de Almoxarifado;2
+CT-CT/20170040;7;Lustrador de Móveis;6
+CT-CT/20170040;8;Marceneiro;22
+CT-CT/20170040;9;Mestre de Obras;3
+CT-CT/20170040;10;Oficial de Serviços Gerais;10
+CT-CT/20170040;11;Serralheiro;4
+CT-CT/20170040;12;Supervisor De Obras e Manutenção - Apoio a Projetos Eletromecânicos;2
+CT-CT/20170040;13;Supervisor de Obras e Manutenção - Ar Condicionado;3
+CT-CT/20170040;14;Supervisor de Obras e Manutenção - Elevadores;4
+CT-CT/20170040;15;Supervisor de Obras e Manutenção - Apoio de Campo Eletrotécnico;5
+CT-CT/20170040;16;Supervisor de Obras e Manutenção - Apoio de Campo de Obras Civis;9
+CT-CT/20170040;17;Supervisor de Obras e Manutenção - Apoio de Campo Hidrossanitário;1
+CT-CT/20170040;18;Supervisor de Obras e Manutenção - Apoio a Orçamentos;4
+CT-CT/20170040;19;Supervisor de Obras e Manutenção - Apoio a Projetos de Obras Covis e Hidrossanitários;2
+CT-CT/20170040;20;Supervisor de Obras e Manutenção - Apoio a Projetos Arquitetônicos;12
+CT-CT/20170040;21;Treinamento para o sistema de gerenciamento de manutenção do Senado Federal;1
+CT-CT/20170040;22;Treinamento para Revit Architecture  (Autodesk) Básico e Modelagem;1
+CT-CT/20170040;23;Relógio Biométrico, conforme especificações constantes do Anexo 03 do edital.;3
+CT-CT/20170049;1;Atendente de telecomunicações;40
+CT-CT/20170049;2;Encarregado de turma;4
+CT-CT/20170049;3;Supervisor;3
+CT-CT/20170049;4;Encarregado Geral;1
+CT-CT/20170077;1;Ascensorista diurno;24
+CT-CT/20170077;2;Ascensorista noturno;2
+CT-CT/20170077;3;Controlador de tráfego;2
+CT-CT/20170084;1;Supervisor Técnico – Segurança do Trabalho;1
+CT-CT/20170084;2;SUBTOTAL SERVIÇOS SOB DEMANDA;1
+CT-CT/20170084;2;Supervisor Técnico – Sistema Hidrossanitário;1
+CT-CT/20170084;3;Técnico em Segurança do Trabalho;1
+CT-CT/20170084;3;SUBTOTAL SISTEMAS DE PONTO ELETRÔNICO BIOMÉTRICO;1
+CT-CT/20170084;4;Auxiliar de Almoxarifado;2
+CT-CT/20170084;4;SUBTOTAL MATERIAIS;1
+CT-CT/20170084;5;SUBTOTAL DE DEPRECIAÇÃO DE FERRAMENTAL DE DISPONIBILIDADE IMEDIATA;1
+CT-CT/20170084;5;Auxiliar de Atendimento;1
+CT-CT/20170084;6;Oficial de Serviços Gerais;1
+CT-CT/20170084;6;SUBTOTAL DE DEPRECIAÇÃO DE FERRAMENTAL DE DISPONIBILIDADE A PARTIR DE 90 DIAS;1
+CT-CT/20170084;7;Técnico em Eletromecânica;2
+CT-CT/20170084;8;Bombeiro Hidráulico Encarregado;1
+CT-CT/20170084;9;Bombeiro Hidráulico Planejador de Manutenção;2
+CT-CT/20170084;10;Bombeiro Hidráulico – Geral, Incêndio e Vácuo;11
+CT-CT/20170084;11;Ajudante de Bombeiro Hidráulico;7
+CT-CT/20170084;12;Bombeiro Hidráulico Plantonista (diurno);2
+CT-CT/20170084;13;Bombeiro Hidráulico Plantonista (noturno);2
+CT-CT/20170084;14;Ajudante de Bombeiro Hidráulico Plantonista (diurno);2
+CT-CT/20170084;15;Ajudante de Bombeiro Hidráulico Plantonista (noturno);2
+CT-CT/20180013;1;Atendimente Técnico - Usuário;6
+CT-CT/20180015;1;Impressor Offset em máquinas policrômicas (4/4 – 8/0) Turno 1;1
+CT-CT/20180015;2;Impressor Offset em máquinas policrômicas (4/4 – 8/0) - Turno 2;2
+CT-CT/20180015;3;Impressor Offset em máquinas policrômicas (4/4 – 8/0) - Turno 3;2
+CT-CT/20180015;4;Impressor Offset em máquinas policrômicas (4/0) - Turno 1;2
+CT-CT/20180015;5;Impressor Offset em máquinas policrômicas (4/0) - Turno 2;2
+CT-CT/20180015;6;Impressor Offset em máquinas monocolores e bicolores - Turno 1;2
+CT-CT/20180015;7;Impressor Offset em máquinas monocolores e bicolores - Turno 2;2
+CT-CT/20180015;8;Auxiliar de Impressão Offset -  Turno 1;3
+CT-CT/20180015;9;Auxiliar de Impressão Offset - Turno 2;2
+CT-CT/20180015;10;Auxiliar de Impressão Offset -  Turno 3;1
+CT-CT/20180015;11;Operador de Acabamento - Turno 1;15
+CT-CT/20180015;12;Operador de Acabamento -  Turno 2;14
+CT-CT/20180015;13;Auxiliar de Acabamento (Cortador/Dobrador -10);15
+CT-CT/20180015;14;Auxiliar de Acabamento (Cortador/Dobrador -10);15
+CT-CT/20180015;15;Paginador Eletrônico de Texto;12
+CT-CT/20180015;16;Paginador Eletrônico de Texto;7
+CT-CT/20180015;17;Paginador Eletrônico de Texto;3
+CT-CT/20180015;18;Operador de Pré-impressão;3
+CT-CT/20180015;19;Operador de Pré-impressão;3
+CT-CT/20180015;20;Operador de Pré-impressão;2
+CT-CT/20180015;21;Auxiliar de Expedição;4
+CT-CT/20180015;22;Auxiliar de Expedição;2
+CT-CT/20180015;23;Almoxarife;3
+CT-CT/20180015;24;Almoxarife;2
+CT-CT/20180015;25;Mecânico de maquinas gráficas;2
+CT-CT/20180015;26;Mecânico de maquinas gráficas;2
+CT-CT/20180015;27;Encarregado;1
+CT-CT/20180015;28;Encarregado;1
+CT-CT/20180020;1;Atende de telecomunicações;8
+CT-CT/20180020;2;Encarregado de Turma;2
+CT-CT/20180020;3;Supervisor de Pós-Atendimento;2
+CT-CT/20180020;4;Técnico em Tecnologia da Informação;4
+CT-CT/20180027;1;RECEPCIONISTA;22
+CT-CT/20180027;2;Supervisor;1
+CT-CT/20180041;1;Instalação / Manutenção - Rede Telefônica - Técnico em Telefonia I;19
+CT-CT/20180041;2;Instalação / Manutenção - Rede Telefônica - Técnicos em telefonia II;6
+CT-CT/20180041;3;Instalação / Manutenção - Rede Telefônica - Técnicos em telefonia III;4
+CT-CT/20180066;1;Encarregado Geral;1
+CT-CT/20180066;2;Copeiro;313
+CT-CT/20180066;3;Contínuo;303
+CT-CT/20180066;4;Cozinheira;3
+CT-CT/20180066;5;Arrumadeira;3
+CT-CT/20180066;6;Lavadeira/ Passadeira;3
+CT-CT/20180066;7;Ajudante de Cozinha;1
+CT-CT/20180066;8;Chaveiro;3
+CT-CT/20180066;9;Auxiliar de Serviços Gerais;5
+CT-CT/20180066;10;Garçom;10
+CT-CT/20180066;11;Apoio Administrativo I (6 h);136
+CT-CT/20180066;12;Apoio Administrativo II (8h);56
+CT-CT/20180068;1;MONTADOR;7
+CT-CT/20180068;2;CARREGADOR;27
+CT-CT/20180068;3;TOMBADOR;14
+CT-CT/20180081;1;Encarregado – 08h a 12h e 14h a 18h;1
+CT-CT/20180081;2;Servente Tipo 1 – 07h a 11h e 12h a 16h;2
+CT-CT/20180081;3;Servente Tipo 2 – 11h a 15h e 16 a 20h;1
+CT-CT/20180081;4;Servente – Tipo 3 – 13h a 17h e 18h a 22h;1
+CT-CT/20180081;5;Materiais de consumo, conforme especificações constantes do Anexo 12 do edital;1
+CT-CT/20180084;1;Técnico de Suporte;4
+CT-CT/20180085;1;Supervisor de Pesquisa;1
+CT-CT/20180085;2;Engenheiro de Dados;2
+CT-CT/20180094;1;Auxiliar  Técnico de Telecomunicações;8
+CT-CT/20180098;1;Transcritor/Formatador em Braille;2
+CT-CT/20180098;2;Revisor de livros em Braille;4
+CT-CT/20180098;3;Impressor em Braille;1
