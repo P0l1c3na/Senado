@@ -90,7 +90,7 @@ CREATE TABLE comentario(
 	url varchar(100) NOT NULL,
 	commentUser VARCHAR(50) NOT NULL,
 	commentData DATETIME,
-	commentText VARCHAR(500) NOT NULL,
+	commentText VARCHAR(1000) NOT NULL,
 	CONSTRAINT FK_coment_user FOREIGN KEY (IdUsuario)
 		REFERENCES usuario(id) ON DELETE CASCADE
 );
@@ -119,3 +119,4 @@ CREATE USER 'usuario'@'localhost' IDENTIFIED BY '123456';
 GRANT SELECT, INSERT, DELETE ON senado.comentario TO 'usuario'@'localhost' IDENTIFIED BY '123456';
 GRANT SELECT, INSERT, DELETE ON senado.usuario TO 'usuario'@'localhost' IDENTIFIED BY '123456';
 
+grant all privileges on senado to 'admsenado'@'%';

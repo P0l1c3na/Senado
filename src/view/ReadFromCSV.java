@@ -29,13 +29,14 @@ public class ReadFromCSV {
     public static void main(String[] args) throws Exception {
         ReadCSV read = new ReadCSV();
 
-        //read.readAposentadoria();
-        //read.readDespesa();
-        //read.readEscritorio();
-        //read.readImovel();
-        //read.readContratos();
+        read.readAposentadoria();
+        read.readDespesa();
+        read.readEscritorio();
+        read.readImovel();
+       // read.readContratos();
         //read.readAditivos();
-        //read.readItens();
+       // read.readItens();
+        /*
         Token token = new Token();
                 
         String email = "phaelpolicena@gmail.com";
@@ -51,7 +52,7 @@ public class ReadFromCSV {
                         .setParameter("email", email);
                            userQuery.executeUpdate();
                 em.getTransaction().commit();
-
+*/
         /*
         
         String link = token.createToken("joao@gmail.com");
